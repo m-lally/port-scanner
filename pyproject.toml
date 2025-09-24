@@ -1,0 +1,18 @@
+[project]
+name = "port-scanner"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "certifi>=2025.8.3",
+    "charset-normalizer>=3.4.3",
+    "idna>=3.10",
+    "importlib-metadata>=8.7.0",
+    "nornir>=3.5.0",
+    "requests>=2.32.5",
+    "ruamel-yaml>=0.18.15",
+    "ruamel-yaml-clib>=0.2.14",
+    "urllib3>=2.5.0",
+    "zipp>=3.23.0",
+]
